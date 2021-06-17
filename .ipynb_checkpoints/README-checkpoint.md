@@ -10,6 +10,8 @@ Rodar do jupyter comandos no terminal
 
 > !comando desejado
 
-|Shortcuts importantes| |
+|Atalhos importantes| Descrição |
 |--|--|
 |Shift + Tab| Informações sobre os itens desejados, sendo funções, pacotes e etc | 
+|CTRL + / | Comentário na linha desejada e/ou em todo um bloco de código |
+|Tab| Autocomplete (Igual em outras IDEs :stuck_out_tongue_closed_eyes:	)
