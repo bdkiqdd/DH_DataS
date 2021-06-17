@@ -10,6 +10,6 @@ Rodar do jupyter comandos no terminal
 
 > !comando desejado
 
-|Shotcuts importantes|
+|Shortcuts importantes| |
 |--|--|
 |Shift + Tab| Informações sobre os itens desejados, sendo funções, pacotes e etc | 
