@@ -1,8 +1,6 @@
 # Digital House - Data Science :nerd_face:
 
-Aqui estão todos os scripts que fiz e que ando fazendo no meu curso de Data Science na Digital House.
-
-> Os denominados 'Desafio-n' são testes de conhecimento feitos de tempos em tempos durante o curso.
+Aqui estão todos os scripts e mini-projetos que fiz no meu curso de Data Science na Digital House.
 
 Ref: [DH](https://www.digitalhouse.com/br/curso/data-science)
 
